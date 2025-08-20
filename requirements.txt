@@ -1,0 +1,7 @@
+uvicorn[standard]
+fastapi==0.116.1
+asyncpg==0.30.0
+openai==1.99.9
+spacy==3.8.7
+httpx==0.28.1
+celery==5.5.3
